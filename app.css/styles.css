@@ -249,7 +249,7 @@ p{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 2rem;
-    grid-template-rows: auto auto 15rem;
+    grid-template-rows: auto auto 30rem;
 }   
 .campo:nth-child(3),
 .campo:nth-child(4){
